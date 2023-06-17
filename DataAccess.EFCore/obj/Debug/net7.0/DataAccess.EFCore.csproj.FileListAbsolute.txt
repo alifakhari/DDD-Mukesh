@@ -1,0 +1,15 @@
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\bin\Debug\net7.0\DataAccess.EFCore.deps.json
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\bin\Debug\net7.0\DataAccess.EFCore.dll
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\bin\Debug\net7.0\DataAccess.EFCore.pdb
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\bin\Debug\net7.0\Domain.dll
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\bin\Debug\net7.0\Domain.pdb
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\DataAccess.EFCore.csproj.AssemblyReference.cache
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\DataAccess.EFCore.AssemblyInfoInputs.cache
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\DataAccess.EFCore.AssemblyInfo.cs
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\DataAccess.EFCore.csproj.CopyComplete
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\DataAccess.EFCore.dll
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\refint\DataAccess.EFCore.dll
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\DataAccess.EFCore.pdb
+D:\project\csharp\RepositoryPtr\DataAccess.EFCore\obj\Debug\net7.0\ref\DataAccess.EFCore.dll

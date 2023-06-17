@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lTSfIeSSuPr0+vb8rBJUT5eN4FVwB0nMqiE3/xDyHJUvesj1YT0BvufGSY2HR/JZKTfHBYX1zGdxut6O+f/Y+g==",
+  "success": true,
+  "projectFilePath": "D:\\project\\csharp\\RepositoryPtr\\Domain\\Domain.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
